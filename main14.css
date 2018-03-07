@@ -1,0 +1,31 @@
+﻿/* this file is for zaferanieh  site */ 
+ body{
+     background-color: orange;
+	 direction:rtl;
+	 font-family: "tahoma" ;
+	border: 2px   solid   #ff0000 ; 
+	padding  : 10px ; 
+	margin  : 20px ;	 }
+ body > h1 {
+      text-decoration: underline;
+	  font-size  :40px;
+	  text-align: center  ;
+	  font-family: "titr" ;
+	  }
+ div  {
+	color  : white;
+	background-color: brown ;
+	font-family:"arial" ;
+	font-style : italic ;
+	font-size : 110% ;
+	border: 2px   solid   #ff0000 ; 
+	padding  : 10px ; 
+	margin  : 20px  200px 20px 20px ;
+	}
+img { 
+    Border-radius: 50px  5px 0px  10px;
+	float :right;
+	transform : translate(-50px , 15px ); 
+	}
+
+    

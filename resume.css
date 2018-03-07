@@ -1,0 +1,18 @@
+﻿ 
+ body{
+    background-color: orange;
+	direction:rtl;
+	font-family: "tahoma" ;
+	border: 2px   solid   #ff0000 ; 
+	padding  : 10px ; 
+	margin  : 20px ;
+	 }
+	 
+  ul   li {list-style-type: circle;}
+  ul   li.square {list-style-type: square;}
+  
+  ol  li {list-style-type: lower-latin ;}
+  ol  li.georgian {list-style-type: georgian   ;}
+  
+  ul
+  ol 

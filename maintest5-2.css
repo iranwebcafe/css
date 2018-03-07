@@ -1,0 +1,11 @@
+﻿  .abieteh  { 
+		color: blue ; 
+		 }
+  .ghermezeteh  {  
+		color: red ; 
+	  }
+body{
+     background-color: orange;
+	 direction:rtl;
+	 font-family: "tahoma" ;
+}

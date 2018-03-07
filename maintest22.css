@@ -1,0 +1,19 @@
+﻿  
+ body{
+     background-color: orange;
+	 direction:rtl;
+	 font-family: "tahoma" ;
+	border: 2px   solid   #ff0000 ; 
+	padding  : 10px ; 
+	margin  : 20px ;
+	cursor  :  help ;
+	 }
+ 
+  span {display :none;
+       border: 2px   solid   #ff0000 ; 
+       padding: 50px 30px;
+	  margin : 50px  30px;
+	 }
+	 
+  p {display :list-item;
+  }

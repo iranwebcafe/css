@@ -1,0 +1,18 @@
+﻿  body{
+    background-color: orange;   direction:rtl;
+	font-family: "titr" ;
+	border: 2px   solid   #ff0000 ; 
+	padding  : 10px ;   	margin  : 20px ;
+	 }
+	
+  ul , ol  {  list-style-image :  url("star2.png");
+   list-style-position : inside;
+  }
+
+   li.asli {list-style-image :  url("star.png");
+   list-style-position : outside;
+   }
+
+  li {      margin: 10px 0px 0px 0px;  }
+
+

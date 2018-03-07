@@ -1,0 +1,12 @@
+﻿  .abieteh  { 
+		direction:rtl;
+		color: blue ; 
+		 }
+  .ghermezeteh  {  
+		direction:rtl;
+		color: red ; 
+		  }
+
+    body{
+	background-image: url("footbal.jpg");
+	}

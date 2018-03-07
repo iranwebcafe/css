@@ -1,0 +1,14 @@
+﻿  .abieteh  { 
+		direction:rtl;
+		color: black ; 
+		 }
+  .ghermezeteh  {  
+		direction:rtl;
+		color: white ; 
+		  }
+
+    body{
+	background-image: url("footbal.jpg");
+	background-repeat: repeat-x;
+	
+	}

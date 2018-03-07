@@ -1,0 +1,31 @@
+﻿  .abieteh  { 
+		color: blue ; 
+		 }
+  .ghermezeteh  {  
+		color: red ; 
+	  }
+ body{
+     background-color: orange;
+	 direction:rtl;
+	 font-family: "tahoma" ;
+	   }
+ body > h1 {
+      text-decoration: underline;
+	  font-size  :40px;
+	  text-align: center  ;
+	  font-family: "titr" ;
+	
+ }
+ a  {
+    color  : black;
+	}
+ #fifa  {
+	color  : white;
+	background-color: brown ;
+	font-family:"arial" ;
+	font-style : italic ;
+	font-size : 150% ;
+	border: 2px   solid   #ff0000 ; 
+	padding :  10px  ;
+	
+	   }
